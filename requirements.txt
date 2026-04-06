@@ -1,5 +1,6 @@
 streamlit
-textblob
-nltk
+vaderSentiment
 pandas
+numpy
+scikit-learn
 matplotlib
