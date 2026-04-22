@@ -2,6 +2,8 @@
 
 This project was developed as part of an internship at Codec Technologies. The Real-Time Sentiment Analysis Dashboard is designed to analyze and visualize sentiment in real-time using tweets or other text data. It provides an interactive interface for users to explore sentiment trends and insights.
 
+Live streamlit app's url is here-"https://real-time-sentiment-analysis-dashboard89.streamlit.app/"
+
 ## Overview
 
 The dashboard allows users to:
